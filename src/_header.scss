@@ -1,0 +1,33 @@
+/* DIV for Icon */
+.typeWindows-2-g3UY {
+    @include spaceOut();
+
+    padding: 1px;
+    margin: auto auto;
+    width: 10em;
+}
+
+/* Icon */
+.winButton-3UMjdg {
+    right: 2.3em;
+}
+
+/* Conversation Title DIV */
+.title-31SJ6t {
+    background-color: $main-color !important;
+    
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 99.7%;
+}
+
+/* Search Bar DIV */
+.searchBar-3TnChZ {
+    height: 3.3em;
+}
+
+/* Search Bar For Conversation + For Words In Conversation */
+.searchBarComponent-3N7dCG, .search-39IXmY  {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}

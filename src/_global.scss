@@ -1,0 +1,8 @@
+$main-color: rgba(0, 0, 0, 0.5);
+$secondary-color: #3ba55d;
+
+@mixin spaceOut {
+    background-color: $main-color !important;
+    margin: 5px;
+    border-radius: 6px;
+}

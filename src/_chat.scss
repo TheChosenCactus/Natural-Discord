@@ -1,0 +1,17 @@
+/* Chat Message */
+.message-2CShn3 {
+    @include spaceOut();
+    position: relative;
+    margin: 0px;
+    border-radius: 0px;
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.7) !important;
+    }
+}
+
+/* Top Message By User */
+.groupStart-3Mlgv1  {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}

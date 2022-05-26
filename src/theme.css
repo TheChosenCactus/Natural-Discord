@@ -1,0 +1,204 @@
+/* Server Side Bar */
+.wrapper-1_HaEi {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  margin: 5px;
+  border-radius: 6px;
+  height: 70%;
+  top: 3.05em;
+  left: 0.15%;
+  max-width: 97%;
+}
+
+/* Home Icon Color */
+.childWrapper-1j_1ub {
+  background-color: #3ba55d !important;
+}
+
+/* Home Icon Container */
+.tutorialContainer-1pL9QS {
+  top: 1px;
+}
+
+/* Server Separator With HomeLogo */
+.guildSeparator-a4uisj {
+  position: absolute;
+  top: 0.5em;
+  background-color: #3b6ca525;
+}
+
+/* Icon + White Bar When Icon Open */
+.wrapper-28eC3z, .pill-22lZHo, .pill-2RsI5Q {
+  margin-top: 0.2em;
+}
+
+/* Add Server Icon*/
+.tutorialContainer-2jwoiB {
+  top: 1%;
+}
+
+/* Server DIV */
+[aria-label="Servers"] {
+  position: relative;
+  top: 2%;
+}
+
+/* DIV for Icon */
+.typeWindows-2-g3UY {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  margin: 5px;
+  border-radius: 6px;
+  padding: 1px;
+  margin: auto auto;
+  width: 10em;
+}
+
+/* Icon */
+.winButton-3UMjdg {
+  right: 2.3em;
+}
+
+/* Conversation Title DIV */
+.title-31SJ6t {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 99.7%;
+}
+
+/* Search Bar DIV */
+.searchBar-3TnChZ {
+  height: 3.3em;
+}
+
+/* Search Bar For Conversation + For Words In Conversation */
+.searchBarComponent-3N7dCG, .search-39IXmY {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Write Container */
+.scrollableContainer-15eg7h {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  margin: 5px;
+  border-radius: 6px;
+  position: relative;
+  margin: 0px;
+  margin-top: -1.5em;
+  height: 53px;
+  right: 1em;
+  bottom: -1.2em;
+}
+
+/* Text Inside Container */
+.inner-NQg18Y {
+  top: 4px;
+}
+
+/* Chat Message */
+.message-2CShn3 {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  margin: 5px;
+  border-radius: 6px;
+  position: relative;
+  margin: 0px;
+  border-radius: 0px;
+}
+
+.message-2CShn3:hover {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+/* Top Message By User */
+.groupStart-3Mlgv1 {
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+/* Banner */
+.banner-1YaD3N {
+  background-image: url("https://www.itl.cat/pngfile/big/69-695306_anime-anime-in-forest.jpg");
+}
+
+/* Profile Big + Small Container */
+.body-1Ukv50, .topSection-13QKHs, .headerTop-3GPUSF, .body-2wLx-E, .footer-3naVBw {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Small Container for Note */
+.bodyInnerWrapper-2bQs1k {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+/* Whole DIV */
+.container-2cd8Mz {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  margin: 5px;
+  border-radius: 6px;
+}
+
+/* Top Bar */
+.theme-dark {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* Anime Icon */
+.image-20MDYu {
+  background-image: url("https://animeblues.com/wp-content/uploads/2021/11/chibi-no-bg.png") !important;
+  height: 15em !important;
+  width: 14em !important;
+}
+
+/* No one's around text */
+.text-27cdrj {
+  position: relative;
+  top: -3em;
+}
+
+:root {
+  --background-primary: transparent;
+  --background-secondary: transparent;
+  --background-tertiary: transparent;
+  --button-secondary-background: rgba(0, 0, 0, 0.5);
+  --info-warning-foreground: #3ba55d;
+  --brand-experiment: #3ba55d;
+}
+
+body {
+  background-image: url("https://images.wallpaperscraft.com/image/single/plant_leaf_carved_137253_1920x1080.jpg");
+}
+
+/* Verify Account */
+.notice-2HEN-u {
+  display: none;
+}
+
+/* Friend List */
+.sidebar-1tnWFu {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  margin: 5px;
+  border-radius: 6px;
+  border-radius: 5px !important;
+}
+
+/* Account Under */
+.panels-3wFtMD {
+  background-color: transparent !important;
+}
+
+/* Typing DIV */
+.typing-2J1mQU {
+  top: -67.9em;
+  left: 38.8em;
+  z-index: 2;
+}
+
+/* Typing Text */
+.text-3S7XCz {
+  font-size: 1.2em;
+}
+
+/* VC background */
+.root-22AK9z {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+/*# sourceMappingURL=theme.css.map */

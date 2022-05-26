@@ -1,0 +1,45 @@
+@import "./global";
+
+/* Server Side Bar */
+.wrapper-1_HaEi {
+    @include spaceOut();
+    height: 70%;
+    
+    top: 3.05em;
+    left: 0.15%;
+    max-width: 97%;
+}
+
+/* Home Icon Color */
+.childWrapper-1j_1ub {
+    background-color: $secondary-color !important;
+}
+
+/* Home Icon Container */
+.tutorialContainer-1pL9QS {
+    top: 1px;
+}  
+
+
+/* Server Separator With HomeLogo */
+.guildSeparator-a4uisj {
+    position: absolute;
+    top: 0.5em;
+    background-color: #3b6ca525;
+}
+
+/* Icon + White Bar When Icon Open */
+.wrapper-28eC3z, .pill-22lZHo, .pill-2RsI5Q  {
+    margin-top: 0.2em;
+}
+
+/* Add Server Icon*/
+.tutorialContainer-2jwoiB {
+    top: 1%;
+}
+
+/* Server DIV */
+[aria-label="Servers"] {
+    position: relative;
+    top: 2%;
+}
