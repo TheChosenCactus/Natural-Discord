@@ -1,0 +1,53 @@
+@import "./sidebar";
+@import "./header";
+@import "./writeForm";
+@import "./chat";
+@import "./profile";
+@import "./friend";
+
+:root {
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --background-tertiary: transparent;
+    --button-secondary-background: rgba(0, 0, 0, 0.5);
+
+    --info-warning-foreground: #3ba55d;
+    --brand-experiment: #3ba55d;
+}
+
+body {
+    background-image: url("https://images.wallpaperscraft.com/image/single/plant_leaf_carved_137253_1920x1080.jpg")
+}
+
+/* Verify Account */
+.notice-2HEN-u {
+    display: none;
+}
+
+/* Friend List */
+.sidebar-1tnWFu  {
+    @include spaceOut();
+    border-radius: 5px !important;
+}
+
+/* Account Under */
+.panels-3wFtMD {
+    background-color: transparent !important;
+}
+
+/* Typing DIV */
+.typing-2J1mQU {
+    top: -67.9em;
+    left: 38.8em;
+    z-index: 2;
+}
+
+/* Typing Text */
+.text-3S7XCz {
+    font-size: 1.2em;
+}
+
+/* VC background */
+.root-22AK9z {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
