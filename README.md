@@ -7,7 +7,7 @@
 ----
 
 <p align="center">
-      <img src="https://cdn.discordapp.com/attachments/9 79175982923653130/979850212854075392/unknown.png" alt="Theme Image" width="500">
+      <img src="https://cdn.discordapp.com/attachments/979175982923653130/979850212854075392/unknown.png" alt="Theme Image" width="500">
       <img src="https://cdn.discordapp.com/attachments/979175982923653130/979849846267715604/unknown.png" alt="Theme Image" width="500">
 </p>
 
