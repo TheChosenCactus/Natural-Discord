@@ -37,13 +37,13 @@
 > # Support me.
 
 * Thanks for looking at this repository, if you like to press the ⭐ button!
-* Made by [0xfffcf](https://github.com/0xfffcf).
+* Made by [Edward Elton](https://github.com/edwardelton).
 
 <p align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/0xfffcf/Natural-Discord?color=7143de">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/0xfffcf/Natural-Discord?color=7143de">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/0xfffcf/Natural-Discord?color=7143de">
-    <img alt="GitHub" src="https://img.shields.io/github/license/0xfffcf/Natural-Discord?color=7143de">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0xfffcf/Natural-Discord?color=7143de">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/Natural-Discord?color=7143de">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/Natural-Discord?color=7143de">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/Natural-Discord?color=7143de">
+    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/Natural-Discord?color=7143de">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/Natural-Discord?color=7143de">
 </p>
